@@ -2,6 +2,8 @@
 
 My name is Daniel Nagel and I am a Full Stack Web Devloper from Germany.
 
+🔭 I’m currently working on [cashflow](https://github.com/danielnagel/cashflow).
+
 💬 Ask me about Node.js, TypeScript, JavaScript, Java, React, Vue or Python.
 
 <!--
