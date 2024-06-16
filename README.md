@@ -2,9 +2,10 @@
 
 My name is Daniel Nagel and I am a Full Stack Web Devloper from Germany.
 
-🔭 I’m currently working on [cashflow](https://github.com/danielnagel/cashflow) and [ideal-vacation](https://github.com/danielnagel/ideal-vacation).
-
+🔭 I’m currently working on [kcal](https://github.com/danielnagel/kcal).
 💬 Ask me about Node.js, TypeScript, JavaScript, Java, React, Vue or Python.
+
+Check out my website [dnagel.de](https://dnagel.de/).
 
 <!--
 **danielnagel/danielnagel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
