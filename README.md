@@ -1,24 +1,26 @@
-### Hi there 👋
+### Hey there 👋
 
-My name is Daniel Nagel and I am a Full Stack Web Devloper from Germany.
+I'm Daniel Nagel – a Full Stack Web Developer from Germany who loves building cool stuff for the web,
+making music, and occasionally breaking things just to fix them again.
 
-🔭 I’m currently working on [kcal](https://github.com/danielnagel/kcal).
+#### 🔭 What I’m working on right now:
 
-💬 Ask me about Node.js, TypeScript, JavaScript, Java, React, Vue or Python.
+* [kcal](https://github.com/danielnagel/kcal) – a fast and efficient calorie tracking app for the nerds among us
+* [algorithms](https://github.com/danielnagel/algorithms) - because seeing how algorithms work is fun ([demo](https://dnagel.de/projects/algorithms/))
+* My personal site [dnagel.de](https://dnagel.de/)
+* My band's website [evilgrin.de](https://evilgrin.de/) – yes, we’re loud 🎸
 
-Check out my website [dnagel.de](https://dnagel.de/).
+#### 💬 Things you can ask me about:
 
-<!--
-**danielnagel/danielnagel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Node.js, TypeScript, JavaScript (and pretty much any JS framework: React, Vue, you name it)
+* Java & Python
+* Music & guitars 🎶
+* Video games & anime 🎮
 
-Here are some ideas to get you started:
+#### 📫 Reach out:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [dnagel.de](https://dnagel.de/)
+
+⚡ Fun fact:
+
+* Yes… I use Arch, btw.
